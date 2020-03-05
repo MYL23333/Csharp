@@ -1,0 +1,7 @@
+C:\Users\19122\source\repos\prime number\prime number\bin\Debug\prime number.exe.config
+C:\Users\19122\source\repos\prime number\prime number\bin\Debug\prime number.exe
+C:\Users\19122\source\repos\prime number\prime number\bin\Debug\prime number.pdb
+C:\Users\19122\source\repos\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\Users\19122\source\repos\prime number\prime number\obj\Debug\prime number.exe
+C:\Users\19122\source\repos\prime number\prime number\obj\Debug\prime number.pdb
+C:\Users\19122\source\repos\prime number\prime number\obj\Debug\prime number.csprojAssemblyReference.cache
