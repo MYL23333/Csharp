@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screening", "screening\screening.csproj", "{5C4FA7B8-6EED-42A4-A57B-391D3CF7ED9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4FA7B8-6EED-42A4-A57B-391D3CF7ED9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4FA7B8-6EED-42A4-A57B-391D3CF7ED9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4FA7B8-6EED-42A4-A57B-391D3CF7ED9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4FA7B8-6EED-42A4-A57B-391D3CF7ED9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0800F0A6-DE6E-460C-8216-EAA8027169FC}
+	EndGlobalSection
+EndGlobal
